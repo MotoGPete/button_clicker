@@ -1,0 +1,33 @@
+.search {
+    border-radius: 25px;
+    border-color: rgb(96, 216, 170);
+    background: rgb(255, 255, 255);
+    padding: 20px;
+    width: 150px;
+    height: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: darkcyan;
+    font-size: large;
+    margin: 20px;
+    }
+
+.plus {
+    background-color: darkcyan;
+    border-radius: 50%;
+    font-size: 30px;
+    color: white;
+    border-style: none;
+    width: 1.2em;
+    margin: 20px;
+}
+
+.create_account {
+    background-color: royalblue;
+    box-shadow: 2px 2px black;
+    border-color: black;
+    color: white;
+    width: 13em;
+    font-size: 1.5em;
+    margin: 20px;
+}
