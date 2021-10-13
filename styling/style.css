@@ -1,0 +1,29 @@
+h1 {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    text-align: left;
+    
+    font-size: 90px;
+    padding: 20px;
+}
+
+h2 {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+    padding: 20px;
+    font-size: 40px;
+}
+
+h3{
+    background-color: cornflowerblue;
+    text-align: right;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    padding: 20px;
+}
